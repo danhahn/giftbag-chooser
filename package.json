@@ -1,0 +1,23 @@
+{
+  "name": "giftbag-chooser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhahn/giftbag-chooser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhahn/giftbag-chooser/issues"
+  },
+  "homepage": "https://github.com/danhahn/giftbag-chooser#readme",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
